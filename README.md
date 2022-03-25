@@ -11,7 +11,7 @@ It is an advcanced model for EV charging by using Rectifier and Buck-Boost Regul
 
 
 ### Functionality
-If the battery of the EV is discharged then we can charge the battery with the help of this model. By this model we can charge the battery with either direct voltage or alternating voltage. That means it can be used as portable charging system. When the discharged vehicle is near to the grid then we can charge the vehicle with the help of rectifier circuit and boost-buck regulator. If the vehicle is not near the grid then we can charge the EV battery by another battery through the BUCK-boost regulator. 
+If the battery of the EV is discharged then we can charge the battery with the help of this model. By this model we can charge the battery with either direct voltage or alternating voltage. That means it can be used as portable charging system. When the discharged vehicle is near to the grid then we can charge the vehicle with the help of rectifier circuit and boost-buck regulator. If the vehicle is not near the grid then we can charge the EV battery by another battery through the Buck-boost regulator. 
 Another advantage of this model is also EV battery can be used as additional battery source. Thus it will supply voltage to the consumer through the boost-buck regulator
 
 
