@@ -24,3 +24,6 @@ If the EV Battery voltage is less than the grid voltage then SOC( State-of-charg
 Matlab and Simulink
 Power Electronics
 Control System
+
+### Language-
++ ***MATLAB Simulink***
